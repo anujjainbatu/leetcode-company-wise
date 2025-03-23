@@ -1,4 +1,4 @@
-```markdown
+
 # Leetcode Company Wise Problems
 
 This repository contains a collection of Leetcode problems categorized by companies. It is designed to help you prepare for coding interviews by focusing on problems frequently asked by specific companies.
@@ -7,7 +7,7 @@ This repository contains a collection of Leetcode problems categorized by compan
 
 Each folder in the repository corresponds to a company and contains problems relevant to that company. The structure is as follows:
 
-```
+
 Accenture/
 Accolite/
 Adobe/
@@ -60,7 +60,6 @@ Cloudflare/
 Cognizant/
 Coinbase/
 ...
-```
 
 ## How to Use
 
@@ -82,4 +81,3 @@ This repository is for educational purposes only. The problems listed here are b
 ---
 
 Happy coding and good luck with your interviews!
-```
